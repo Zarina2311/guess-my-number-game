@@ -30,13 +30,16 @@ button {
     border-radius: 16px;
     text-align: center;
     color: rgb(109, 96, 184);
-    margin-left: 255px;
+    margin-left: 90px;
     padding: 5px 30px;
 }
 
 button:hover {
     background-color: rgb(231, 205, 226);
 }
+
+/* To center the buttons */
+.centering { text-align: center; width: 100%; }
 
 /* Text field for user's input */
 input[type=number], [placeholder="Enter Your Number Here"], select {
