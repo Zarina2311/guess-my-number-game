@@ -17,7 +17,7 @@ p {
     font-size: 21px;
     font-family: 'Courier New', Courier, monospace;
     color: rgba(245, 236, 236, 0.918);
-    margin-left: 580px;
+    margin-left: 595px;
     margin-top: 60px;
 }
 
@@ -27,11 +27,11 @@ button {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
     font-size: 20px;
-    border-radius: 16px;
+    border-radius: 20px;
     text-align: center;
     color: rgb(109, 96, 184);
-    margin-left: 90px;
-    padding: 5px 30px;
+    margin: 0px 50px;
+    padding: 5px 25px;
 }
 
 button:hover {
@@ -42,16 +42,23 @@ button:hover {
 .centering { text-align: center; width: 100%; }
 
 /* Text field for user's input */
-input[type=number], [placeholder="Enter Your Number Here"], select {
+input[type=number], select {
     width: 14%;
-    padding: 38px;
+    padding: 35px;
     margin: 9px 0;
     border: 1px solid #ccc;
     border-radius: 18px;
     text-align: center;
     margin-top: 80px;
+    font-size: 20px;
+    margin-left: 605px;
+  }
+
+  /*  */
+  ::placeholder { 
+    color: rgb(165, 163, 163);
+    opacity: 1;
     font-size: 12px;
-    margin-left: 593px;
   }
   
 /* Submit button */
@@ -64,7 +71,7 @@ input[type=number], [placeholder="Enter Your Number Here"], select {
     border: none;
     border-radius: 23px;
     cursor: pointer;
-    margin-left: 628px;
+    margin-left: 640px;
   }
   
   input[type=submit]:hover {
