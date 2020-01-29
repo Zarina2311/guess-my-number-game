@@ -12,7 +12,7 @@ h1 {
     margin-top: 140px;
 }
 
-/* Choose your range */
+/* Choose your range phrase */
 p {
     font-size: 21px;
     font-family: 'Courier New', Courier, monospace;
@@ -62,7 +62,7 @@ input[type=number], select {
     color: rgba(90, 43, 67, 0.884);
 }
 
-/* Placeholder */
+/* Placeholder, hint for user's input */
 ::placeholder { 
     color: rgb(165, 163, 163);
     opacity: 1;

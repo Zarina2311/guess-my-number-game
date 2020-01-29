@@ -55,35 +55,3 @@ function handleRange100Click(event) {
 range10Button.addEventListener("click", handleRange10Click);
 range50Button.addEventListener("click", handleRange50Click);
 range100Button.addEventListener("click", handleRange100Click);
-
-
-
-
-
-
-
-
-/*
-
-let answer = Math.floor(Math.random() * 100);
-
-let alertPopUp = document.querySelector(".submit");
-
-function handleClick(event) {
-  event.preventDefault();
-  let guess = document.querySelector(".number").value;
-  
-if (guess === "") {
-    alert("Please enter a number");
-  } else if (guess < answer) {
-    alert("The answer is higher. Try again!");
-  } else if (guess > answer) {
-    alert ("The answer is lower. Try again!");
-  } else {
-    alert("Great job! That's the correct number!");
-  }
-};
-
-alertPopUp.addEventListener("click", handleClick);
-
-*/
