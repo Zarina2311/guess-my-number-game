@@ -54,7 +54,7 @@ input[type=number], select {
     margin-left: 605px;
   }
 
-  /*  */
+  /* Placeholder */
   ::placeholder { 
     color: rgb(165, 163, 163);
     opacity: 1;
