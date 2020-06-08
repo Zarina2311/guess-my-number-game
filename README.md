@@ -2,6 +2,8 @@
 
 The project is written in JavaScript, HTML and CSS.
 
+![Game Demo](/secret-number-demo.gif)
+
 ![Secret Number Game](/secret-number.png)
 
 You can play the game here: https://zarina2311.github.io/guess-my-number-game
