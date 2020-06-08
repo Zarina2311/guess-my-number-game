@@ -1,12 +1,10 @@
 ## Guess My Secret Number Game
 
-The project is written in JavaScript, HTML and CSS.
-
-![Game Demo](/secret-number-demo.gif)
-
-![Secret Number Game](/secret-number.png)
+The game is written in JavaScript, HTML and CSS.
 
 You can play the game here: https://zarina2311.github.io/guess-my-number-game
+
+![Game Demo](/secret-number-demo.gif)
 
 ### Features include:
 
